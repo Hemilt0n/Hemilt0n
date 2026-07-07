@@ -107,8 +107,8 @@ const hemilt0n = {
 > 一条吃掉我贡献图的霓虹贪吃蛇，由 GitHub Actions 每日自动生成 ✨
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemilt0n/Hemilt0n/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Hemilt0n/Hemilt0n/output/github-contribution-grid-snake.svg" alt="Snake contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Hemilt0n/Hemilt0n@output/github-contribution-grid-snake-dark.svg">
+  <img src="https://cdn.jsdelivr.net/gh/Hemilt0n/Hemilt0n@output/github-contribution-grid-snake.svg" alt="Snake contribution graph" />
 </picture>
 
 <sub>⚡ 由 <a href="https://github.com/Platane/snk">Platane/snk</a> 驱动 · 每日 UTC 00:00 自动更新</sub>
